@@ -20,6 +20,6 @@ images:
 
 # Album Images
 
-![test foto]({{ site.baseur1 }}/assets/test foto.jpeg)
+![test foto]({{ site.baseur1 }}/assets/test foto.jpg)
 
 {% include album.liquid data=page.images %}
