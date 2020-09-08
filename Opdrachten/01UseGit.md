@@ -7,6 +7,6 @@ Deze kan ik dan goed gebruiken in mijn dagelijks leven maar ook in een makerspac
 
  ![Logo github]({{ site.baseurl }}/assets/logo.png):
  
- ## Link Github
+ # Link Github
 
 [GitHub Home Page](https://github.com)
