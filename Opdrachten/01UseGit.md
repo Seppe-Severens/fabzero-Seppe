@@ -1,7 +1,1 @@
-# Git gebruiken
-
-Opdracht: Gebruik Git om verslag bij te houden van je vooruitgang.
-
-Stuur de link naar deze repo naar de FabZero verantwoordelijke.
-
-source: `{{ page.path }}`
+IK ben Seppe Severens en ik volg de FabZero opleiding om verschillende technieken en programma's te leren kennen. Deze kan ik dan goed gebruiken in mijn dagelijks leven maar ook in een makerspace.
