@@ -5,8 +5,8 @@ _Deze kan ik dan goed gebruiken in mijn dagelijks leven maar ook in een makerspa
 
 # Logo GitHub
 
- ![Logo github]({{ site.baseurl }}/assets/logo.png):
+ [Logo github]({{ site.baseurl }}/assets/logo.png):
  
- # Link Github
+ 
 
 [GitHub Home Page](https://github.com)
