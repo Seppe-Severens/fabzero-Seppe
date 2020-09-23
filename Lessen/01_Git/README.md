@@ -1,5 +1,5 @@
 # Les 01: Learn Git - Setup Project
 
-We leren aan wat git is, en passen het toe op deze template.
+We hebben deze les geleerd hoe met Github te werken en hoe je je eigenwisite kunt onderhouden.
 
 source: `{{ page.path }}`
