@@ -1,2 +1,3 @@
-Les 4 ontwerpen en 3D-printen
-We hebben deze les geleerd over het ontwerpen van allerlei zaken en dit gebeurd in de bedrijfswereld. Ook hebben we geleerd over het ontwerpen van tekeningen voor de lasercutter, zodat we dingen kunnen ontwerpen voor ons eindproject en deze dan ook uit te laseren.
+# Les 04: Ontwerpen en 3D-printen
+
+We hebben deze les
