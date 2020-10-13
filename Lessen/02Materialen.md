@@ -1,4 +1,4 @@
-# Les 2 Materialen
+# Les 02 Materialen
 
 We hebben deze les van alles geleerd over materialen en waarvoor je ze kunt gebruiken. Na deze les weten we welk materiaal voor wat gebruikt kan worden en hoe ze best te gebruiken, zodat we geen gevaar voor de gebruiker of ons zelf creeren.
 
